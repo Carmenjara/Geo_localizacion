@@ -6,7 +6,6 @@
 package Datos;
 
 /**
- *
  * @author Gabriela y Rocío
  */
 public class Aulas {
@@ -65,6 +64,5 @@ public class Aulas {
     public void setContenido(String contenido) {
         this.contenido = contenido;
     }
-    
     
 }
